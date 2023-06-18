@@ -20,7 +20,7 @@ body{
     background-position: center;
     background-attachment: fixed; /*to make the home page fixed*/
 }
-#sidemenu
+/* #sidemenu
 {
     position: fixed;
     top: 0;
@@ -33,7 +33,7 @@ body{
     padding-right: 30px;
     
  
-}
+} */
 .container{
     padding: 10px 10%;
 }
