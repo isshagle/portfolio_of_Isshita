@@ -18,7 +18,21 @@ body{
     background-image: url(background.png);
     background-size: cover;
     background-position: center;
-
+    background-attachment: fixed; /*to make the home page fixed*/
+}
+#sidemenu
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end; 
+    align-items: center;
+    transition: 0.6s;
+    padding-right: 30px;
+    
+ 
 }
 .container{
     padding: 10px 10%;
